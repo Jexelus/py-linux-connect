@@ -1,0 +1,7 @@
+{
+    "uuid": "linux-connect@nth.com",
+    "name": "linux-connect-widget",
+    "description": "A custom widget for the GNOME Top Bar",
+    "version": 1,
+    "shell-version": ["40", "41", "42", "43", "44", "45", "46", "47"]
+}
